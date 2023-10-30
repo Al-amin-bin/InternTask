@@ -5,7 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 
-![Capture](https://github.com/Al-amin-bin/InternTask/assets/112118991/03937a10-9af8-4bb2-9ee5-c779c64c4afb)
+![Capture1](https://github.com/Al-amin-bin/InternTask/assets/112118991/606124bc-7ff2-421b-83bf-52a4cf7eb329)
+
 ![Capture3](https://github.com/Al-amin-bin/InternTask/assets/112118991/edd34ac1-8dbc-4a61-bd8f-ba9e561931ea)
 ![Capture4](https://github.com/Al-amin-bin/InternTask/assets/112118991/4f9f52c1-6b09-4986-9f22-4363dcac5183)
 ![Capture5](https://github.com/Al-amin-bin/InternTask/assets/112118991/935140a8-2c01-4db0-9e13-4e9b79a88f8c)
